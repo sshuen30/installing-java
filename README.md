@@ -39,6 +39,8 @@ echo $JAVA_HOME
 - Download java from this link:
   https://www.oracle.com/sg/java/technologies/downloads/#jdk17-mac
 
+<img width="1049" alt="Screenshot 2024-03-15 at 10 49 22 AM" src="https://github.com/sshuen30/installing-openjdk/assets/40738215/56505945-2096-4d02-96c2-7543b4eb9ca3">
+
 - Install the dmg file
 
 - After installation, check the installation path of java and make a note of the version
