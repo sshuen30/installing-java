@@ -1,4 +1,4 @@
-## Installing java on macos
+## Installing java on macos (Using Homebrew)
 
 - Check the current java version 
 ```bash
