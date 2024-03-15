@@ -1,1 +1,4 @@
-# installing-java
+## Installing-java
+```bash
+java -version
+```
