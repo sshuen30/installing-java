@@ -30,6 +30,7 @@ source ~/.zshrc
 - Verify that Java is installed and the JAVA_HOME variable is set correctly by running
 ```bash
 java -version
+javac -version
 echo $JAVA_HOME
 ```
 ------------------------------------------
@@ -59,3 +60,9 @@ export PATH=$JAVA_HOME/bin:$PATH
 source ~/.zshrc
 ```
 
+- Verify that Java is installed and the JAVA_HOME variable is set correctly by running
+```bash
+java -version
+javac -version
+echo $JAVA_HOME
+```
