@@ -18,7 +18,17 @@ brew info openjdk@11
 ```
 - Set the JAVA_HOME environment variable to point to the installed JDK
 ```bash
+# Edit ~/.zshrc file
 sudo nano ~/.zshrc
+# Insert the following line and save the file
 export JAVA_HOME=/opt/homebrew/opt/openjdk@11
+# Apply the changes
+source ~/.zshrc
 ```
+- Verify that Java is installed and the JAVA_HOME variable is set correctly by running
+```bash
+java -version
+echo $JAVA_HOME
+```
+
 
