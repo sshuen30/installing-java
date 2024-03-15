@@ -21,3 +21,4 @@ brew info openjdk@11
 sudo nano ~/.zshrc
 export JAVA_HOME=/opt/homebrew/opt/openjdk@11
 ```
+
