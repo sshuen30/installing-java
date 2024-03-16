@@ -69,7 +69,7 @@ javac -version
 echo $JAVA_HOME
 ```
 ------------------------------------------------
-## Installing java on macos
+## Installing java on Ubuntu
 
 - Install java
 ```bash
