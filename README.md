@@ -68,3 +68,23 @@ java -version
 javac -version
 echo $JAVA_HOME
 ```
+------------------------------------------------
+## Installing java on macos
+
+- Install java
+```bash
+sudo apt update
+sudo apt install openjdk-11-jdk
+```
+
+- Verify the java version installed
+```bash
+java -version
+```
+
+- Set the JAVA_HOME environment variable and update the PATH variable
+```bash
+sudo nano ~/.zshrc
+export JAVA_HOME=/usr/lib/jvm/openjdk-11
+export PATH=$PATH:$JAVA_HOME/bin
+```
